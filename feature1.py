@@ -1,6 +1,6 @@
-print("sum feature")
-def add_feature(a, b):
-    return a + b
+print("Multiplication")
+def product_feature(a, b):
+    return a * b
 
-total = add_feature(1,5)
-print(total)
+product = product_feature(3,5)
+print(product)
